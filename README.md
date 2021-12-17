@@ -1,2 +1,3 @@
 # AES-256-Encrypt
-# AES-256-Encrypt
+Encrypting text
+Password generated automatically (random)
